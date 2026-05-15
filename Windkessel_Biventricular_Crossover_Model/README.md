@@ -1,7 +1,4 @@
 # ventricular-interdependence-simulations
-
-[![DOI](https://zenodo.org/badge/586662394.svg)](https://zenodo.org/badge/latestdoi/586662394)
-
 Model run environment MATLAB R2025a.
 
 The repository contains 4 primary folders ('Core', 'ExVivo_Crossover', 'LSA_codes', and 'OPT_codes') that pertain to the model. 
